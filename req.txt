@@ -1,0 +1,14 @@
+faiss-cpu==1.7.3
+numpy==1.21.4
+requests
+sentence-transformers==2.2.2
+os
+re
+torch==1.13.1
+string
+pandas
+validators
+nltk==3.8.1
+warnings
+streamlit==1.2.0
+PIL 
